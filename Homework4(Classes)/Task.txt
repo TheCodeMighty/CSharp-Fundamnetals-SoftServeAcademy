@@ -1,0 +1,16 @@
+Define class Person. Class Person should consist of:
+              a) two private fields: name and birthYear (	).
+		(As a type for this field you may use DateTime type.)
+              b) two properties for access to these fields (can use only get)
+              c) default constructor and constructor with 2 parameters 
+              d) methods: - Age() - to calculate the age of person
+                   	  - Input() - to enter data about person from console
+                  	  - ChangeName() - to change the name of person
+                 	  - ToString() 
+                   	  - Output() - to output information about person (call ToString())
+                 	  - operator== (equal by name)
+1)In the method Main() create 6 objects of Person type and enter information about them. 
+2)Then calculate and output on the console name and Age of each person; 
+3)Change the name of persons, which Age is less then 16, to "Very Young".
+4)Output information about all persons on the console. 
+5)Find and output information about Persons with the same names (use ==).

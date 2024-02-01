@@ -1,0 +1,14 @@
+C:\C#Learning\SoftServe\Homework4(Classes)\bin\Debug\net8.0\Homework4(Classes).exe
+C:\C#Learning\SoftServe\Homework4(Classes)\bin\Debug\net8.0\Homework4(Classes).deps.json
+C:\C#Learning\SoftServe\Homework4(Classes)\bin\Debug\net8.0\Homework4(Classes).runtimeconfig.json
+C:\C#Learning\SoftServe\Homework4(Classes)\bin\Debug\net8.0\Homework4(Classes).dll
+C:\C#Learning\SoftServe\Homework4(Classes)\bin\Debug\net8.0\Homework4(Classes).pdb
+C:\C#Learning\SoftServe\Homework4(Classes)\obj\Debug\net8.0\Homework4(Classes).GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Learning\SoftServe\Homework4(Classes)\obj\Debug\net8.0\Homework4(Classes).AssemblyInfoInputs.cache
+C:\C#Learning\SoftServe\Homework4(Classes)\obj\Debug\net8.0\Homework4(Classes).AssemblyInfo.cs
+C:\C#Learning\SoftServe\Homework4(Classes)\obj\Debug\net8.0\Homework4(Classes).csproj.CoreCompileInputs.cache
+C:\C#Learning\SoftServe\Homework4(Classes)\obj\Debug\net8.0\Homework4(Classes).dll
+C:\C#Learning\SoftServe\Homework4(Classes)\obj\Debug\net8.0\refint\Homework4(Classes).dll
+C:\C#Learning\SoftServe\Homework4(Classes)\obj\Debug\net8.0\Homework4(Classes).pdb
+C:\C#Learning\SoftServe\Homework4(Classes)\obj\Debug\net8.0\Homework4(Classes).genruntimeconfig.cache
+C:\C#Learning\SoftServe\Homework4(Classes)\obj\Debug\net8.0\ref\Homework4(Classes).dll
