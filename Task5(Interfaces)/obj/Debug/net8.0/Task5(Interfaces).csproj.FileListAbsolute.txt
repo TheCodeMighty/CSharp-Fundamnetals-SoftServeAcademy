@@ -1,0 +1,14 @@
+C:\C#Learning\SoftServe\Task5(Interfaces)\bin\Debug\net8.0\Task5(Interfaces).exe
+C:\C#Learning\SoftServe\Task5(Interfaces)\bin\Debug\net8.0\Task5(Interfaces).deps.json
+C:\C#Learning\SoftServe\Task5(Interfaces)\bin\Debug\net8.0\Task5(Interfaces).runtimeconfig.json
+C:\C#Learning\SoftServe\Task5(Interfaces)\bin\Debug\net8.0\Task5(Interfaces).dll
+C:\C#Learning\SoftServe\Task5(Interfaces)\bin\Debug\net8.0\Task5(Interfaces).pdb
+C:\C#Learning\SoftServe\Task5(Interfaces)\obj\Debug\net8.0\Task5(Interfaces).GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Learning\SoftServe\Task5(Interfaces)\obj\Debug\net8.0\Task5(Interfaces).AssemblyInfoInputs.cache
+C:\C#Learning\SoftServe\Task5(Interfaces)\obj\Debug\net8.0\Task5(Interfaces).AssemblyInfo.cs
+C:\C#Learning\SoftServe\Task5(Interfaces)\obj\Debug\net8.0\Task5(Interfaces).csproj.CoreCompileInputs.cache
+C:\C#Learning\SoftServe\Task5(Interfaces)\obj\Debug\net8.0\Task5(Interfaces).dll
+C:\C#Learning\SoftServe\Task5(Interfaces)\obj\Debug\net8.0\refint\Task5(Interfaces).dll
+C:\C#Learning\SoftServe\Task5(Interfaces)\obj\Debug\net8.0\Task5(Interfaces).pdb
+C:\C#Learning\SoftServe\Task5(Interfaces)\obj\Debug\net8.0\Task5(Interfaces).genruntimeconfig.cache
+C:\C#Learning\SoftServe\Task5(Interfaces)\obj\Debug\net8.0\ref\Task5(Interfaces).dll
